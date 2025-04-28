@@ -19,7 +19,6 @@ class Mobil {
 
 
 }
-
 int main(){
-
+    
 }
